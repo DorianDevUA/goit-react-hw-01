@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 
-/* removes spacing between cells in tables */
 table {
   border-collapse: collapse;
 }
