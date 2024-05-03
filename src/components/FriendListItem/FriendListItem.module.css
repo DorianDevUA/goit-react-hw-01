@@ -1,14 +1,14 @@
-.friendCard {
+.card {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.friendName {
+.name {
   margin-top: 10px;
 }
 
-.friendStatus {
+.status {
   margin-top: 5px;
 }
 
